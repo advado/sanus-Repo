@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/openFile"
+        android:icon="@drawable/ic_open"
+        android:title="@string/openFile"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/clearAll"
+        android:icon="@drawable/ic_baseline_cleaning_services_24"
+        android:title="@string/clearAll"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/ic_baseline_delete_24"
+        android:title="@string/delete"
+        app:showAsAction="always" />
+</menu>

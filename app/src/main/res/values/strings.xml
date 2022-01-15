@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Simple Text Editor</string>
+
+    <string name="hintFileName">FileName.extension</string>
+
+    <!-- menu's voices -->
+    <string name="openFile">Open file</string>
+    <string name="clearAll">Clear all</string>
+    <string name="delete">Delete this file</string>
+    <!-- _________________________________ -->
+
+    <!-- toast messages -->
+    <string name="toast_delete_no_file">First of all you have to open a file !</string>
+    <string name="toast_delete">File deleted !</string>
+
+    <string name="toast_save_no_name">CHOOSE THE FILE NAME !</string>
+    <string name="toast_save_no_text">WRITE SOMETHING !</string>
+    <string name="toast_saved">Saved in Download.</string>
+
+    <string name="toast_error">Something has gone wrong !</string>
+    <!-- ___________________________________________ -->
+
+    <!-- yes/no dialog messages -->
+    <string name="overwriteFile">A file with this name already exists, do you want to overwrite it ?</string>
+    <string name="deleteFile">Are you sure to delete this file ?</string>
+
+    <string name="askDialog_yes">Yes</string>
+    <string name="askDialog_no">No</string>
+    <!-- ___________________________________________ -->
+
+</resources>

@@ -1,0 +1,134 @@
+{
+    "Movies": [
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Fbohimian.jpg?alt=media&token=1859a5a9-c7a1-4f8e-a787-35536c2d93ea",
+            "title": "Bohimian",
+            "videoUrl": "https://youtu.be/mP0VHJYFOAU"
+        },
+		{
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Fassasin.jpg?alt=media&token=194ee691-8ef3-48f7-a865-9dd7ac3107e7",
+            "title": "Assasin",
+            "videoUrl": "https://youtu.be/CKFtNsQ78oI"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Fstarwars.jpg?alt=media&token=1ae37f7f-62e8-4a19-881d-bdbb11124c90",
+            "title": "Star Wars",
+            "videoUrl": "https://youtu.be/8Qn_spdM5Zg"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Furge.jpg?alt=media&token=6d724018-905e-4f10-9c55-b44b6e04f547",
+            "title": "Urge",
+            "videoUrl": "https://youtu.be/4D0l9bz2TME"
+        },		
+		{
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Fcolombia.jpg?alt=media&token=c8c83267-a1b9-4c27-aa33-e61070a5d9e1",
+            "title": "colombia",
+            "videoUrl": "https://youtu.be/UHTOWFPGDKI"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Fpower.jpg?alt=media&token=ba8f5427-73b8-4b84-81e3-2984fca56f96",
+            "title": "Power",
+            "videoUrl": "https://youtu.be/xw1vQgVaYNQ"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Fjocker.jpg?alt=media&token=51231ab3-feaa-4f7f-a8a4-463860cd29e0",
+            "title": "Jocker",
+            "videoUrl": "https://youtu.be/zAGVQLHvwOY"
+        },		
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Ffreedom.jpg?alt=media&token=f54db647-b6ab-4e4f-85f0-e7c2800d5a8e",
+            "title": "Freedom",
+            "videoUrl": "https://youtu.be/jkcFTI9_4Pc&t=41s"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Farcher.jpg?alt=media&token=f6be6206-1133-484c-9553-b8e73abda037",
+            "title": "Archer",
+            "videoUrl": "https://youtu.be/pXSJKllkuk4"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Fmortals.jpg?alt=media&token=27a3c6bb-9b79-43fe-afe1-6cf18b974aa0",
+            "title": "Mortals",
+            "videoUrl": "https://youtu.be/aqQwPeivH-Y"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Fafterlife.jpg?alt=media&token=664ac7e5-4da5-4dbf-b39d-041528eed8f2",
+            "title": "After life",
+            "videoUrl": "https://youtu.be/t-OX5vzIcJM"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Fcaptain.jpg?alt=media&token=26f432c0-a703-4012-a59e-d11ae6038c3f",
+            "title": "Captain",
+            "videoUrl": "https://youtu.be/7SlILk2WMTI"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Finvision.jpg?alt=media&token=6251ae29-c4d2-470b-b266-48ffa9d596b9",
+            "title": "Invision",
+            "videoUrl": "https://youtu.be/okNzOq0R8yE"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Fthehell.jpg?alt=media&token=c04467f0-2e52-431e-bc08-04e234a4a4a5",
+            "title": "The Hell",
+            "videoUrl": "https://youtu.be/HE4iomYHF7c"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Flegend.jpg?alt=media&token=5eb1515c-42d7-46b2-ac95-bbd7fb9877e1",
+            "title": "Legend",
+            "videoUrl": "https://youtu.be/2VeYkS6FfM8"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Ftheownes.jpg?alt=media&token=068760fc-5f34-4e9f-b20b-b75a2acb6631",
+            "title": "Theownes",
+            "videoUrl": "https://youtu.be/yMvJSivVNrs"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/music%2Fdilbar.jpg?alt=media&token=4a7a3ca0-8f8a-40bd-93b4-08f2c267ce4e",
+            "title": "Dilbar",
+            "videoUrl": "https://youtu.be/0kRDM7BpOkk"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/music%2Fdelqyeh.jpg?alt=media&token=c6ff16e7-96d4-4dbf-bdc7-f3f29f184dc2",
+            "title": "Dil q yeh shor",
+            "videoUrl": "https://youtu.be/p0IMtvwJrUA"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/music%2Fsathkyanibhaoge.jpg?alt=media&token=fc2a5ec6-1a05-4326-a8d6-9e577a43a954",
+            "title": "Sath kya nibhaoge",
+            "videoUrl": "https://youtu.be/EhKWe9ghocg"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/music%2Fosathi.png?alt=media&token=d318d1db-54dc-49f6-a73a-307cc365c07c",
+            "title": "O Sathi",
+            "videoUrl": "https://youtu.be/OX-h7MtkeOI"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/music%2Fpanipani.jpg?alt=media&token=b04e40e8-cbe2-45b9-bd13-57329a8851c5",
+            "title": "Pani pani",
+            "videoUrl": "https://youtu.be/nFjVlf2r9_Q"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/music%2Ftumerijindadi.jpg?alt=media&token=f7983bc3-d03f-4a02-97fe-d663382a5072",
+            "title": "Tu meri jindagi",
+            "videoUrl": "https://youtu.be/Q3R-zuX3CJ4"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/music%2Flutgaye.jpg?alt=media&token=c6ef6006-805f-406b-95b9-c051dad8e305",
+            "title": "Lut gaye",
+            "videoUrl": "https://youtu.be/exSfPz-j8NE"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/music%2Ffilhaalm.jpg?alt=media&token=5a84e1f7-6651-44d4-944f-72e668b421d3",
+            "title": "Filhaal Mohabbati",
+            "videoUrl": "https://youtu.be/DUwlGduupRI"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/music%2Fbhurjkhalifa.jpg?alt=media&token=7f4f28df-8d69-498d-91ef-6f930be79d6c",
+            "title": "Bhurj Khalifa",
+            "videoUrl": "https://youtu.be/a0TkeUhcVrM"
+        },
+        {
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/music%2Fkabhitumahre.jpg?alt=media&token=c71d68e0-aeaf-4e56-b29f-9b2ddaced432",
+            "title": "Kabhi tumhare",
+            "videoUrl": "https://youtu.be/ByIZIKFmHOA"
+        }
+    ]
+}

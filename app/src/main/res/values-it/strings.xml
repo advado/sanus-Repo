@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Simple Text Editor</string>
+
+    <string name="hintFileName">NomeDelFile.estensione</string>
+
+    <!-- menu's voices -->
+    <string name="openFile">Apri un file</string>
+    <string name="clearAll">Resetta schermata</string>
+    <string name="delete">Elimina questo file</string>
+    <!-- _________________________________ -->
+
+    <!-- toast messages -->
+    <string name="toast_delete_no_file">Prima devi aver aperto un file !</string>
+    <string name="toast_delete">File cancellato !</string>
+
+    <string name="toast_save_no_name">SCEGLI IL NOME DEL FILE !</string>
+    <string name="toast_save_no_text">SCRIVI QUALCOSA !</string>
+    <string name="toast_saved">Salvato nei Download.</string>
+
+    <string name="toast_error">Qualcosa è andato storto !</string>
+    <!-- ___________________________________________ -->
+
+    <!-- yes/no dialog messages -->
+    <string name="overwriteFile">Esiste già un file con questo nome, lo vuoi sovrascrivere ?</string>
+    <string name="deleteFile">Sei sicuro di voler eliminare questo file ?</string>
+
+    <string name="askDialog_yes">Si</string>
+    <string name="askDialog_no">No</string>
+    <!-- ___________________________________________ -->
+
+</resources>
